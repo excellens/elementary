@@ -14,7 +14,9 @@
   "keywords": [
     "excellens",
     "elementary",
-    "javascript"
+    "javascript",
+    "mvp-pattern",
+    "custom-element"
   ],
   "author": "Marcel <github@gameplayjdk.de>",
   "license": "MIT",
