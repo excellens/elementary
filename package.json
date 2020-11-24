@@ -1,7 +1,7 @@
 {
   "name": "@excellens/elementary",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "A custom element library in plain javascript (almost).",
   "main": "src/Main.js",
   "scripts": {
     "test": "echo 'Error: no test specified' && exit 0",
