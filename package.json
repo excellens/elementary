@@ -1,0 +1,30 @@
+{
+  "name": "@excellens/elementary",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "src/Main.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 0",
+    "build": "rollup --config build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Excellens/elementary.git"
+  },
+  "keywords": [
+    "excellens",
+    "elementary",
+    "javascript"
+  ],
+  "author": "Marcel <github@gameplayjdk.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Excellens/elementary/issues"
+  },
+  "homepage": "https://github.com/Excellens/elementary#readme",
+  "devDependencies": {
+    "@rollup/plugin-json": "^4.1.0",
+    "rollup": "^2.32.1",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
