@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Excellens/elementary.git"
+    "url": "git+https://github.com/excellens/elementary.git"
   },
   "keywords": [
     "excellens",
@@ -21,9 +21,9 @@
   "author": "Marcel <github@gameplayjdk.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Excellens/elementary/issues"
+    "url": "https://github.com/excellens/elementary/issues"
   },
-  "homepage": "https://github.com/Excellens/elementary#readme",
+  "homepage": "https://github.com/excellens/elementary#readme",
   "devDependencies": {
     "@rollup/plugin-json": "^4.1.0",
     "rollup": "^2.32.1",
